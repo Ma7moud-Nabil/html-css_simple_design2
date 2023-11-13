@@ -8,6 +8,7 @@
 body {
     height: 100vh;
     width: 100%;
+    background-color: #200008;
     background-image:
         linear-gradient(45deg, #0004ff3b, #ff00003b),
         url(../imgs/ufo.jpg);
